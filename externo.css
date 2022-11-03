@@ -1,0 +1,39 @@
+<style type="text/css">
+		.maior{
+			width: 50%;
+			text-align:left;
+			background-color:#DFEBD3;
+		}
+		.menor{
+			width: 30%;
+			text-align: center;
+			background-color:#DFEBD3;
+		}
+		.menores{
+			width: 20%;
+			text-align: right;
+			background-color:#E1D3EB;
+		}
+		.maior1{
+			background-color:#D3EBE6;
+			text-align:left;
+			width: 50%;
+		}
+		.detalhe{
+			text-decoration: line-through;
+		}
+		#letra{
+			font-size: 20px;
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		#cor{
+			color:#EBD3DE;
+		}
+	table,th, td {
+  		border: 1px solid;
+  		border-color: #EBD3DE;
+	}
+	body{
+		background-color:#F7F5EB;
+	}
+</style>
